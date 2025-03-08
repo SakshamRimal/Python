@@ -1,0 +1,3 @@
+Recursion calls the function itself for iterating 
+- in production loops are used 
+- it is diffucult than loops 
