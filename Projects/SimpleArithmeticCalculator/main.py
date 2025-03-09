@@ -25,4 +25,4 @@ while True:
         except ZeroDivisionError:
             result = "Error: Cannot be divided by 0"
     
-    print("Result:", result)
+    print("Result:", round(result,3))
