@@ -33,3 +33,14 @@ mylist = [1,2,3,4,5,6,7,8,9]
 a = mylist[1:5] # strating index and stopping index 
 print(a)
 
+a = mylist[::-1]
+print(a)
+
+list_org = ["banana" , "cherry" ,"apple"]
+list_copy = list_org
+list_copy.append("lemon")
+print(list_copy)
+print(list_org)
+# same copy gardinxa becuase it directly copy the reference
+
+
